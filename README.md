@@ -3,7 +3,7 @@
 ### **PANDAS**
 #### Submitted by Pierre Van Aken A. Dionaldo | 2ECE-A | 09.09.2026
 
-This repository showcases the objective and detailed discussion of the experiment from the Programming Assignment 3 last September 8, 2026 where the class discussed Module 3 - **Python Data Analysis (PANDAS)**
+This repository showcases the objective and detailed discussion of the experiment from the Programming Assignment 3 last September 9, 2026 where the class discussed Module 3 - **Python Data Analysis (PANDAS)**
 
 ---
 ### **Objectives**
@@ -150,6 +150,13 @@ The following functions and methods in this code are:
   > Retyping the variable displays the written code
 - `print ("Selected Car Shape", selected_cars.shape)`: Prints the shape of the selected data frame
 
+To view program file for PA2 please visit this link [PA2_2ECEA_DIONALDO.ipynb](https://github.com/akenvdio/PA3-PANDAS-2ECEA-DIONALDO/blob/29fab170a011d2a49972622410502582bb5ff385/PA3_2ECEA_DIONALDO.ipynb) and download. Open on Jupyter Notebook or Google Colab and run all cells.
+
+---
+
+## **README File Version History**
+- September 9, 2026 - Upload .ipynb file
+- September 9, 2026 - Upload README File
 
 ---
 ### **END OF NOTEBOOK**
